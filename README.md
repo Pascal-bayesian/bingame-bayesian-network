@@ -3,7 +3,7 @@ A Netica implementation of Barber’s BinGame exercise, inferring hidden player 
 
 # BinGame Bayesian Network
 
-A Netica implementation of the **BinGame** exercise from David Barber’s *Bayesian Reasoning and Machine Learning*.
+A Netica implementation of the **BinGame** exercise (chapter 3.21) from David Barber’s *Bayesian Reasoning and Machine Learning*.
 
 This small Bayesian network models a tournament with four players whose **skill levels are hidden** and whose **win/loss outcomes are observed**. The model updates posterior beliefs about player skill after entering the observed game results.
 
